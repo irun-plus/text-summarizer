@@ -2,6 +2,11 @@
 name: text-summarizer
 description: 将长文本压缩为简洁摘要。当用户要求总结、摘要、提炼要点，或未指定用途但需要压缩一段文字时，应使用本 Skill。支持直接粘贴文本或本地文件路径。
 agent_created: true
+version: 1.0.0
+display_name: 文字摘要助手
+display_name_en: Text Summarizer
+description_zh: 把长文本压缩为简洁摘要，输出一句话总括加3到5条要点。当用户输入总结、摘要、提炼要点，或需要压缩一段文字时触发。
+description_en: Compress long text into a concise summary with a one-line overview and 3-5 key points. Trigger on summarize, abstract, key points, or text compression requests.
 ---
 
 # 文字摘要 Skill
